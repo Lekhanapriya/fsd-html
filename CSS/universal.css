@@ -1,0 +1,30 @@
+#leku{
+	font-size: 50px;
+	font-family: cursive;
+}
+/**{
+	font-size: 40px;
+	font-family: cursive;
+	color:green;
+}
+input[type="text"]{
+	color:blue;
+}
+input[type="number"]{
+	color:yellow;
+}
+input[type="email"]{
+	color:green;
+}
+input[type="password"]{
+	color:pink;
+}
+a[href]{
+	background-color: purple
+}
+input[type]{
+	color:powderblue;
+}
+body{
+	background-color: pink;
+}*/

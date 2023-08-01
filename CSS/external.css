@@ -1,0 +1,26 @@
+/*body{
+	background-image: url(images/swiz.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 30px;
+	font-family: monospace;
+}
+#circle {
+background: red;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+}
+div{
+	outline:10px dotted red;
+}*/
+div{
+	height: 100px;
+	width: 400px;
+	box-shadow: 0 0 0 5px firebrick;
+	outline: dashed 5px darkturquoise;
+	/*height: 100px;
+	width: 400px;
+	background-color: white;
+	outline: 20px solid red;*/
+}

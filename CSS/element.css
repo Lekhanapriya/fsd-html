@@ -1,0 +1,13 @@
+#leku{
+	font-size: 50px;
+	font-family: cursive;
+}
+p{
+	color: blue;
+	font-size: 30px;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: purple;
+}
